@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programacion\\WebServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7675F4-48A0-47C9-B1E4-54C8A47F8FED}|WebServer\\WebServer.csproj|c:\\programacion\\webserver\\webserver\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7675F4-48A0-47C9-B1E4-54C8A47F8FED}|WebServer\\WebServer.csproj|solutionrelative:webserver\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC464E4E-8906-4807-A0D9-B1DF9362A96E}|ConsolaServer\\ConsolaServer.csproj|c:\\programacion\\webserver\\consolaserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC464E4E-8906-4807-A0D9-B1DF9362A96E}|ConsolaServer\\ConsolaServer.csproj|solutionrelative:consolaserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programacion\\WebServer\\ConsolaServer\\Program.cs",
+              "RelativeDocumentMoniker": "ConsolaServer\\Program.cs",
+              "ToolTip": "C:\\Programacion\\WebServer\\ConsolaServer\\Program.cs",
+              "RelativeToolTip": "ConsolaServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:36:53.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Programacion\\WebServer\\WebServer\\Server.cs",
+              "RelativeDocumentMoniker": "WebServer\\Server.cs",
+              "ToolTip": "C:\\Programacion\\WebServer\\WebServer\\Server.cs",
+              "RelativeToolTip": "WebServer\\Server.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:36:25.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

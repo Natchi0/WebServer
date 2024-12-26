@@ -1,0 +1,11 @@
+C:\Programacion\WebServer\WebServer\bin\Debug\net9.0\WebServer.deps.json
+C:\Programacion\WebServer\WebServer\bin\Debug\net9.0\WebServer.dll
+C:\Programacion\WebServer\WebServer\bin\Debug\net9.0\WebServer.pdb
+C:\Programacion\WebServer\WebServer\obj\Debug\net9.0\WebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\WebServer\WebServer\obj\Debug\net9.0\WebServer.AssemblyInfoInputs.cache
+C:\Programacion\WebServer\WebServer\obj\Debug\net9.0\WebServer.AssemblyInfo.cs
+C:\Programacion\WebServer\WebServer\obj\Debug\net9.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Programacion\WebServer\WebServer\obj\Debug\net9.0\WebServer.dll
+C:\Programacion\WebServer\WebServer\obj\Debug\net9.0\refint\WebServer.dll
+C:\Programacion\WebServer\WebServer\obj\Debug\net9.0\WebServer.pdb
+C:\Programacion\WebServer\WebServer\obj\Debug\net9.0\ref\WebServer.dll
