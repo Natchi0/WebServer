@@ -9,3 +9,4 @@ C:\Programacion\WebServer\WebServer\obj\Debug\net9.0\WebServer.dll
 C:\Programacion\WebServer\WebServer\obj\Debug\net9.0\refint\WebServer.dll
 C:\Programacion\WebServer\WebServer\obj\Debug\net9.0\WebServer.pdb
 C:\Programacion\WebServer\WebServer\obj\Debug\net9.0\ref\WebServer.dll
+C:\Programacion\WebServer\WebServer\obj\Debug\net9.0\WebServer.sourcelink.json

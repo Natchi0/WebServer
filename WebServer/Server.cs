@@ -24,8 +24,9 @@ namespace WebServer
 		/// <summary>
 		/// Manda a inicializar el listener en un hilo aparte mediante Task.Run
 		/// </summary>
-		private static void Start(HttpListener listener)
+		private static void Start(HttpListener listener, string websitePath)
 		{
+			router.websitePath = websitePath;
 			listener.Start();
 			Task.Run(() => RunServer(listener));
 		}
@@ -88,11 +89,11 @@ namespace WebServer
 			// se procesa la conexion
 			HttpListenerRequest request = context.Request;
 			string path = request.RawUrl.LeftOf("?"); //obtengo la url sin los parametros
-			string verv = request.HttpMethod; //obtengo el verbo http
+			string verb = request.HttpMethod; //obtengo el verbo http
 			string parms = request.RawUrl.RightOf("?"); //obtengo los parametros
 			Dictionary<string, string> kvParams = GetKeyValues(parms); //obtengo los parametros en un diccionario
 
-
+			router.Route(verb, path, kvParams);
 		}
 
 		/// <summary>

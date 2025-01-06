@@ -11,4 +11,11 @@
     <ProjectReference Include="..\WebServer\WebServer.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Website\CSS\" />
+    <Folder Include="Website\Images\" />
+    <Folder Include="Website\Scripts\" />
+    <Folder Include="Website\Pages\" />
+  </ItemGroup>
+
 </Project>
